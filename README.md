@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jonah-kayiwa.
-- 👀 I’m interested in fintech and robots 🤖...hahaha 
+- 👀 I’m interested in DevOps, Cloud and robots 🤖 
 - 🌱 I’m currently learning Systems Development.
 - 💞️ I’m looking to collaborate on anything interesting.
 - ⚡ Fun fact: Caribbean jerk 🍗 
